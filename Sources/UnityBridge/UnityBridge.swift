@@ -1,3 +1,4 @@
-struct UnityBridge {
-    var text = "Hello, World!"
+public struct UnityBridge {
+	
+	public var text = "Hello, World!"
 }
